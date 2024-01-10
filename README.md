@@ -6,3 +6,5 @@ This repository includes all the assignments for ECE661: Deep Reinforcement Lear
 3. [Understand and Implement Sequence Models](https://github.com/YZhu0225/ECE661_Machine_Learning_and_Deep_Neural_Nets/tree/main/HW3_Understand%20and%20Implement%20Sequence%20Models)
 4. [Pruning and Fixed-point Quantization](https://github.com/YZhu0225/ECE661_Machine_Learning_and_Deep_Neural_Nets/tree/main/HW4_Pruning%20and%20Fixed-point%20Quantization)
 5. [Adversarial Attacks and Defenses](https://github.com/YZhu0225/ECE661_Machine_Learning_and_Deep_Neural_Nets/tree/main/HW_5_Adversarial%20Attacks%20and%20Defenses)
+
+[Final Project](https://github.com/YZhu0225/Semantic-Segmentation-for-Retinal-Layer-in-Diabetic-Macular-Edema-using-Transfer-Learning)
